@@ -1,3 +1,3 @@
 # helloword
 primer codigo
-#somos legion esperar siempre volveis 
+somos principiantes en Git los necesitamos .
